@@ -98,7 +98,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocola
 - open **PowerShell as admin** and run:
 
 ```powershell
-choco install ffmpeg -y
+choco install ffmpeg visualstudio2022buildtools --package-parameters \"--allWorkloads --includeRecommended --includeOptional --passive -- locale en-US\" -y
 ```
 
 ---
