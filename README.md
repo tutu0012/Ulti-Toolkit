@@ -70,7 +70,7 @@ plus:
 
 ### installers:
 - [Chocolatey](https://chocolatey.org/)
-- [pip] (https://pypi.org/project/pip/) (comes with Python)
+- [pip](https://pypi.org/project/pip/) (comes with Python)
 
 ### system dependencies:
 - [Microsoft C++ Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
